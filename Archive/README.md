@@ -6,8 +6,8 @@ The backend is spring boot application, there are prepopulated data and find the
 
 Username         password         role
 
-admin            admin            Admin
-awesome          123              Seller
-eyuel            123              Buyer
+admin            admin_plus       Admin
+seya             666              Seller
+zeyneb           123              Buyer
 
 
